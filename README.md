@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on react js, facebook chatbots.
+- 🔭 I’m currently working on the following projects.
 - 📫 How to reach me: 
   - :telephone_receiver: +63930-469-9769
   - :email: jammmg26@gmail.com
@@ -28,9 +28,23 @@ Here are some ideas to get you started:
       - Redux
       - JavaScript
       - Sass
+      - Bootstrap
+      - Antd
+      - Nodejs
     - Links:
       - https://gadsys.web.app
       - https://gadsys.ga
+  - :heavy_check_mark: eBusiness - A simple buy and sell platform made with react. 
+    - Technology used:
+      - React
+      - MongoDB
+      - Redux
+      - Javascript
+      - Antd
+      - Express
+      - Nodejs
+    - Links:
+      - https://ebusiness.jaml.ga/
   - :heavy_check_mark: SmartTools - Easy to use chatbot integrated with many handy tools such as OCR, PDF to docx, image processing applications and many more. 
     - Technology used:
       - JavaScript
@@ -38,3 +52,4 @@ Here are some ideas to get you started:
       - Google API
     - Links:
       - https://www.facebook.com/SmartToolsPH
+      - https://www.facebook.com/SmartToolsPH2
