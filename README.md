@@ -45,7 +45,7 @@ Here are some ideas to get you started:
       - Express
       - Nodejs
     - Links:
-      - https://ebusiness.jaml.ga/
+      - https://ecommerce.jaml.ga/
   - :heavy_check_mark: SmartTools - Easy to use chatbot integrated with many handy tools such as OCR, PDF to docx, image processing applications and many more. 
     - Technology used:
       - JavaScript
