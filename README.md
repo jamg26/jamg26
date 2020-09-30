@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 💬 I have 9 years of experience in web development.
 - 🔭 I’m currently working on the following projects.
 - 📫 How to reach me: 
   - :telephone_receiver: +63930-469-9769
