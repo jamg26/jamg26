@@ -52,5 +52,4 @@ Here are some ideas to get you started:
       - Facebook for Developer
       - Google API
     - Links:
-      - https://www.facebook.com/SmartToolsPH
-      - https://www.facebook.com/SmartToolsPH2
+      - https://www.facebook.com/T3knolohiya
