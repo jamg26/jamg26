@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     - Links:
       - https://gadsys.web.app
       - https://gadsys.ga
-  - :heavy_check_mark: eBusiness - A simple buy and sell platform made with react. 
+  - :heavy_check_mark: eCommerce - A simple ecommerce made with react. 
     - Technology used:
       - React
       - MongoDB
