@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     - pip
     - linux shell
     
-### 🔭 I’m currently working on the following projects.
+### 🔭 These are my projects:
   - :heavy_check_mark: GADSYS - Gender and Development mangement in barangay. built with reactjs, firebase, redux
     - Technology used:
       - ReactJS
