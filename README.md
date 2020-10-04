@@ -16,6 +16,26 @@ Here are some ideas to get you started:
 -->
 
 - 💬 I have 9 years of experience in web development.
+- List of skills I have
+  - Programming Languages
+    - JavaScript
+    - C#
+    - Python
+    - PHP
+  - Web Development Tech Stack
+    - MongoDB
+    - Express
+    - ReactJS
+    - Nodejs
+    - Redux
+    - Redis
+    - Firebase
+    - Sass
+    - Antd
+    - Bootstrap
+    - Facebook for Developer
+    - REST API
+    
 - 🔭 I’m currently working on the following projects.
 - 📫 How to reach me: 
   - :telephone_receiver: +63930-469-9769
@@ -39,7 +59,7 @@ Here are some ideas to get you started:
     - Technology used:
       - MongoDB
       - Express
-      - React
+      - ReactJS
       - Nodejs
       - Redux
       - Redis
