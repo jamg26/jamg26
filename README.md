@@ -37,13 +37,14 @@ Here are some ideas to get you started:
       - https://gadsys.ga
   - :heavy_check_mark: eCommerce - A simple ecommerce made with react. 
     - Technology used:
-      - React
       - MongoDB
+      - Express
+      - React
+      - Nodejs
       - Redux
+      - Redis
       - Javascript
       - Antd
-      - Express
-      - Nodejs
     - Links:
       - https://ecommerce.jaml.ga/
   - :heavy_check_mark: SmartTools - Easy to use chatbot integrated with many handy tools such as OCR, PDF to docx, image processing applications and many more. 
