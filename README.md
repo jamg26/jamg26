@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+<!--### Hi there 👋
 **jamg26/jamg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 💬 I have 9 years of experience in web development. -->
-- List of skills I have
+### List of skills I have
   - Programming Languages
     - JavaScript
     - C#
@@ -48,12 +48,7 @@ Here are some ideas to get you started:
     - pip
     - linux shell
     
-- 🔭 I’m currently working on the following projects.
-- 📫 How to reach me: 
-  - :telephone_receiver: +63930-469-9769
-  - :email: jammmg26@gmail.com
-  - :computer: https://fb.me/jammmg
-- ⚡ These are my active projects:
+### 🔭 I’m currently working on the following projects.
   - :heavy_check_mark: GADSYS - Gender and Development mangement in barangay. built with reactjs, firebase, redux
     - Technology used:
       - ReactJS
@@ -86,3 +81,8 @@ Here are some ideas to get you started:
       - Google API
     - Links:
       - https://www.facebook.com/T3knolohiya
+      
+### 📫 How to reach me: 
+  - :telephone_receiver: +63930-469-9769
+  - :email: jammmg26@gmail.com
+  - :computer: https://fb.me/jammmg
