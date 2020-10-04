@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 I have 9 years of experience in web development.
+<!-- - 💬 I have 9 years of experience in web development. -->
 - List of skills I have
   - Programming Languages
     - JavaScript
     - C#
     - Python
     - PHP
-  - Web Development Tech Stack
+  - Web Development Tech Stacks
     - MongoDB
     - Express
     - ReactJS
@@ -35,6 +35,18 @@ Here are some ideas to get you started:
     - Bootstrap
     - Facebook for Developer
     - REST API
+  - Desktop Applications
+    - Word Processing: Microsoft Office
+    - Image Editor: Adobe Photoshop
+  - Operating Systems
+    - Windows 7, 8, 10
+    - Linux (Ubuntu)
+  - Command lines
+    - ssh
+    - npm
+    - git
+    - pip
+    - linux shell
     
 - 🔭 I’m currently working on the following projects.
 - 📫 How to reach me: 
