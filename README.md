@@ -80,7 +80,24 @@ Here are some ideas to get you started:
       - Facebook for Developer
       - Google API
     - Links:
-      - https://www.facebook.com/T3knolohiya
+      - https://www.facebook.com/SmartToolsPH
+  - :heavy_check_mark: MessengerBot for your store - Easily to sell product in your page using messenger bot iwht own control panel. 
+    - Technology used:
+      - JavaScript
+      - Facebook for Developer
+      - Google API
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - Javascript
+      - Antd
+    - Links:
+      - https://cpanel.jaml.ga/ (web control panel)
+      - https://web.facebook.com/Jamg-Ecommerce-111353847400439 (demo for facebook bot)
+      
       
 ### 📫 How to reach me: 
   - :telephone_receiver: +63930-469-9769
