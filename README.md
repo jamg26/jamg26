@@ -81,7 +81,7 @@ Here are some ideas to get you started:
       - Google API
     - Links:
       - https://www.facebook.com/SmartToolsPH
-  - :heavy_check_mark: MessengerBot for your store - Easily to sell product in your page using messenger bot with own control panel. 
+  - :heavy_check_mark: MessengerBot for your store - Will make easy to sell product in your page using this messenger bot, can handle your orders and automated answers. 
     - Technology used:
       - JavaScript
       - Facebook for Developer
