@@ -95,7 +95,7 @@ Here are some ideas to get you started:
       - Javascript
       - Antd
     - Links:
-      - https://cpanel.jaml.ga/ (web control panel)
+      - https://store.fbots.ml/ (web control panel)
       - https://web.facebook.com/Jamg-Ecommerce-111353847400439 (demo for facebook bot)
       
       
