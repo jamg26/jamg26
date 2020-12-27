@@ -49,6 +49,22 @@ Here are some ideas to get you started:
     - linux shell
     
 ### 🔭 These are my projects:
+  - :heavy_check_mark: FBots - Store for messenger - is a SaaS type application and messenger bot that will make easy to sell product in your page using this messenger bot, can handle your orders and automated answers. 
+    - Technology used:
+      - JavaScript
+      - Facebook for Developer
+      - Google API
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - Javascript
+      - Antd
+    - Links:
+      - https://store.fbots.ml/ (web control panel)
+      - https://web.facebook.com/Jamg-Ecommerce-111353847400439 (demo for facebook bot)
   - :heavy_check_mark: GADSYS - Gender and Development mangement in barangay. built with reactjs, firebase, redux
     - Technology used:
       - ReactJS
@@ -81,22 +97,7 @@ Here are some ideas to get you started:
       - Google API
     - Links:
       - https://www.facebook.com/SmartToolsPH
-  - :heavy_check_mark: MessengerBot for your store - Will make easy to sell product in your page using this messenger bot, can handle your orders and automated answers. 
-    - Technology used:
-      - JavaScript
-      - Facebook for Developer
-      - Google API
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Redis
-      - Javascript
-      - Antd
-    - Links:
-      - https://store.fbots.ml/ (web control panel)
-      - https://web.facebook.com/Jamg-Ecommerce-111353847400439 (demo for facebook bot)
+
       
       
 ### 📫 How to reach me: 
