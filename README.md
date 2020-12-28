@@ -1,4 +1,10 @@
-
+### Developments
+  - Web Dev - 2012
+  - PHP - 2015
+  - ReactJS - 2018
+  - Python - 2012
+  - JavaScript - 2013
+  - C# 2018
 
 <!--### Hi there 👋
 **jamg26/jamg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
