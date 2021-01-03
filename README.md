@@ -69,7 +69,7 @@ Here are some ideas to get you started:
       - Javascript
       - Antd
     - Links:
-      - https://store.fbots.ml/ (web control panel)
+      - https://www.fbots.ml/
       - https://web.facebook.com/Jamg-Ecommerce-111353847400439 (demo for facebook bot)
   - :heavy_check_mark: GADSYS - Gender and Development mangement in barangay. built with reactjs, firebase, redux
     - Technology used:
