@@ -92,7 +92,7 @@ Here are some ideas to get you started:
       - Nodejs
       - Redux
       - Redis
-      - Javascript
+      - JavaScript
       - Antd
     - Links:
       - https://ecommerce.jaml.ga/
@@ -103,6 +103,17 @@ Here are some ideas to get you started:
       - Google API
     - Links:
       - https://www.facebook.com/SmartToolsPH
+  - :heavy_check_mark: QuakePH - Latest Earthquake Information
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Leaflet
+      - Antd
+      - JavaScript
+    - Links:
+      - https://quakeph.ml/
 
       
       
