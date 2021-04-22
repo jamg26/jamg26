@@ -2,6 +2,7 @@
   - Web Dev - 2012
   - PHP - 2015
   - ReactJS - 2018
+  - React Native - 2020
   - Python - 2012
   - JavaScript - 2013
   - C# 2018
@@ -69,8 +70,9 @@ Here are some ideas to get you started:
       - Javascript
       - Antd
     - Links:
-      - https://www.fbots.ml/
-      - https://web.facebook.com/Jamg-Ecommerce-111353847400439 (demo for facebook bot)
+      - (cpanel web) https://www.fbots.ml/
+      - (demo page) https://web.facebook.com/Jamg-Ecommerce-111353847400439
+      - (cpanel android) https://play.google.com/store/apps/details?id=com.jamg.fbots
   - :heavy_check_mark: GADSYS - Gender and Development mangement in barangay. built with reactjs, firebase, redux
     - Technology used:
       - ReactJS
@@ -113,7 +115,8 @@ Here are some ideas to get you started:
       - Antd
       - JavaScript
     - Links:
-      - https://quakeph.ml/
+      - (web) https://quakeph.ml/
+      - (android) https://play.google.com/store/apps/details?id=com.jamg.quakeph
 
       
       
