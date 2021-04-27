@@ -1,37 +1,126 @@
-## Welcome to GitHub Pages
+### Developments
+  - Web Dev - 2012
+  - PHP - 2015
+  - ReactJS - 2018
+  - React Native - 2020
+  - Python - 2012
+  - JavaScript - 2013
+  - C# 2018
 
-You can use the [editor on GitHub](https://github.com/jamg26/jamg26/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!--### Hi there 👋
+**jamg26/jamg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are some ideas to get you started:
 
-### Markdown
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- - 💬 I have 9 years of experience in web development. -->
+### List of skills I have
+  - Programming Languages
+    - JavaScript
+    - C#
+    - Python
+    - PHP
+  - Web Development Tech Stacks
+    - MongoDB
+    - Express
+    - ReactJS
+    - Nodejs
+    - Redux
+    - Redis
+    - Firebase
+    - Sass
+    - Antd
+    - Bootstrap
+    - Facebook for Developer
+    - REST API
+  - Desktop Applications
+    - Word Processing: Microsoft Office
+    - Image Editor: Adobe Photoshop
+  - Operating Systems
+    - Windows 7, 8, 10
+    - Linux (Ubuntu)
+  - Command lines
+    - ssh
+    - npm
+    - git
+    - pip
+    - linux shell
+    
+### 🔭 These are my projects:
+  - :heavy_check_mark: FBots - Store for messenger - is a SaaS type application and messenger bot that will make easy to sell product in your page using this messenger bot, can handle your orders and automated answers. 
+    - Technology used:
+      - JavaScript
+      - Facebook for Developer
+      - Google API
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - Javascript
+      - Antd
+    - Links:
+      - (cpanel web) https://www.fbots.ml/
+      - (demo page) https://web.facebook.com/Jamg-Ecommerce-111353847400439
+      - (cpanel android) https://play.google.com/store/apps/details?id=com.jamg.fbots
+  - :heavy_check_mark: GADSYS - Gender and Development mangement in barangay. built with reactjs, firebase, redux
+    - Technology used:
+      - ReactJS
+      - Firebase
+      - Redux
+      - JavaScript
+      - Sass
+      - Bootstrap
+      - Antd
+      - Nodejs
+    - Links:
+      - https://gadsys.web.app
+      - https://gadsys.ga
+  - :heavy_check_mark: eCommerce - A simple ecommerce made with react. 
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - JavaScript
+      - Antd
+    - Links:
+      - https://ecommerce.jaml.ga/
+  - :heavy_check_mark: SmartTools - Easy to use chatbot integrated with many handy tools such as OCR, PDF to docx, image processing applications and many more. 
+    - Technology used:
+      - JavaScript
+      - Facebook for Developer
+      - Google API
+    - Links:
+      - https://www.facebook.com/SmartToolsPH
+  - :heavy_check_mark: QuakePH - Latest Earthquake Information
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Leaflet
+      - Antd
+      - JavaScript
+    - Links:
+      - (web) https://quakeph.ml/
+      - (android) https://play.google.com/store/apps/details?id=com.jamg.quakeph
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamg26/jamg26/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      
+      
+### 📫 How to reach me: 
+  - :telephone_receiver: +63930-469-9769
+  - :email: jammmg26@gmail.com
+  - :computer: https://fb.me/jammmg
