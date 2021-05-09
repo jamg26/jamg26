@@ -67,7 +67,6 @@ Here are some ideas to get you started:
       - Nodejs
       - Redux
       - Redis
-      - Javascript
       - Antd
     - Links:
       - (cpanel web) https://www.fbots.ml/
@@ -78,7 +77,6 @@ Here are some ideas to get you started:
       - ReactJS
       - Firebase
       - Redux
-      - JavaScript
       - Sass
       - Bootstrap
       - Antd
@@ -94,7 +92,6 @@ Here are some ideas to get you started:
       - Nodejs
       - Redux
       - Redis
-      - JavaScript
       - Antd
     - Links:
       - https://ecommerce.jaml.ga/
@@ -113,10 +110,42 @@ Here are some ideas to get you started:
       - Nodejs
       - Leaflet
       - Antd
-      - JavaScript
     - Links:
       - (web) https://quakeph.ml/
       - (android) https://play.google.com/store/apps/details?id=com.jamg.quakeph
+  - :heavy_check_mark: PartyNeeds - Inventory, Ordering and Reservation System 
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - Antd
+    - Links:
+      - https://inv-ord-res.herokuapp.com/
+  - :heavy_check_mark: BSMS - Barangay Service Monitoring System with charts, qr code attendance system
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - Antd
+    - Links:
+      - https://bsms-sys.herokuapp.com/
+  - :heavy_check_mark: EHome - E-Home Services with Live Map system 
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - Antd
+    - Links:
+      - https://ehome-sys.herokuapp.com/
 
       
       
