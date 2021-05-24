@@ -145,6 +145,20 @@ Here are some ideas to get you started:
       - Redux
       - Redis
       - Antd
+      - React Landy
+      - OpenStreetMap (Live map)
+    - Links:
+      - https://ehome-sys.herokuapp.com/
+  - :heavy_check_mark: Wasteify - Wasteify: An E-Garbage Collection Web-Based App
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Redis
+      - Antd
+      - OpenStreetMap (Live map)
     - Links:
       - https://ehome-sys.herokuapp.com/
 
