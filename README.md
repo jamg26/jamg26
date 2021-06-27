@@ -161,7 +161,7 @@ Here are some ideas to get you started:
       - Antd
       - OpenStreetMap (Live map)
     - Links:
-      - https://wasteify.herokuapp.com/
+      - https://wasteify.org/
 
       
       
