@@ -1,3 +1,7 @@
+# Howdy! 👋
+
+![](https://github.com/jamg26/jamg26/blob/master/header_.png)
+
 ### Developments
   - Web Dev - 2012
   - XHTML - 2012
