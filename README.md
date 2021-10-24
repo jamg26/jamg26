@@ -166,6 +166,17 @@ Here are some ideas to get you started:
       - OpenStreetMap (Live map)
     - Links:
       - https://wasteify.org/
+  - :heavy_check_mark: ThrowMyFiles: Share your files whenever you are.
+    - Technology used:
+      - MongoDB
+      - Express
+      - ReactJS
+      - Nodejs
+      - Redux
+      - Antd
+      - SocketIO
+    - Links:
+      - https://throwmyfile.com/
 
       
       
