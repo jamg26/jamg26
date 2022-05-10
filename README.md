@@ -181,7 +181,7 @@ Here are some ideas to get you started:
 
       
       
-### 📫 How to reach me: 
+### 📫 Contact: 
   - :telephone_receiver: +63930-469-9769
   - :email: jammmg26@gmail.com
   - :computer: https://fb.me/jammmg
