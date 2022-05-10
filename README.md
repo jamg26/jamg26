@@ -9,6 +9,7 @@
   - React Native - 2020
   - Python - 2012
   - JavaScript - 2013
+  - Typescript - 2021
   - C# 2018
   - Node 2018
 
