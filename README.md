@@ -49,6 +49,7 @@ Here are some ideas to get you started:
     - Facebook for Developer
     - REST API
     - WebSocket / SocketIO
+    - AWS Services
   - Desktop Applications
     - Word Processing: Microsoft Office
     - Image Editor: Adobe Photoshop
