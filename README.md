@@ -48,6 +48,7 @@ Here are some ideas to get you started:
     - Bootstrap
     - Facebook for Developer
     - REST API
+    - WebSocket / SocketIO
   - Desktop Applications
     - Word Processing: Microsoft Office
     - Image Editor: Adobe Photoshop
