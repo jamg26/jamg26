@@ -9,7 +9,7 @@
   - React Native - 2020
   - Python - 2012
   - JavaScript - 2013
-  - Typescript - 2021
+  - Typescript - 2020
   - C# 2018
   - Node 2018
 
@@ -29,14 +29,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 💬 I have 9 years of experience in web development. -->
-### List of skills I have
-  - Programming Languages
-    - JavaScript
-    - C#
-    - Python
-    - PHP
+### Web Development Tech Stacks
   - Web Development Tech Stacks
     - MongoDB
+    - Typescript
     - Express
     - ReactJS
     - Nodejs
@@ -50,140 +46,19 @@ Here are some ideas to get you started:
     - REST API
     - WebSocket / SocketIO
     - AWS Services
-  - Desktop Applications
-    - Word Processing: Microsoft Office
-    - Image Editor: Adobe Photoshop
-  - Operating Systems
-    - Windows 7, 8, 10
-    - Linux (Ubuntu)
+    - Docker
+    - Vite
+    - Tailwind
   - Command lines
     - ssh
     - npm
     - git
     - pip
-    - linux shell
-    
-### 🔭 These are my projects:
-  - :heavy_check_mark: FBots - Store for messenger - is a SaaS type application and messenger bot that will make easy to sell product in your page using this messenger bot, can handle your orders and automated answers. 
-    - Technology used:
-      - JavaScript
-      - Facebook for Developer
-      - Google API
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Redis
-      - Antd
-    - Links:
-      - (cpanel web) https://www.fbots.ml/
-      - (demo page) https://web.facebook.com/Jamg-Ecommerce-111353847400439
-      - (cpanel android) https://play.google.com/store/apps/details?id=com.jamg.fbots
-  - :heavy_check_mark: GADSYS - Gender and Development mangement in barangay. built with reactjs, firebase, redux
-    - Technology used:
-      - ReactJS
-      - Firebase
-      - Redux
-      - Sass
-      - Bootstrap
-      - Antd
-      - Nodejs
-    - Links:
-      - https://gadsys.web.app
-      - https://gadsys.ga
-  - :heavy_check_mark: eCommerce - A simple ecommerce made with react. 
-    - Technology used:
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Redis
-      - Antd
-    - Links:
-      - https://ecommerce.jaml.ga/
-  - :heavy_check_mark: SmartTools - Easy to use chatbot integrated with many handy tools such as OCR, PDF to docx, image processing applications and many more. 
-    - Technology used:
-      - JavaScript
-      - Facebook for Developer
-      - Google API
-      - NodeJS
-    - Links:
-      - https://www.facebook.com/SmartToolsPH
-  - :heavy_check_mark: QuakePH - Latest Earthquake Information
-    - Technology used:
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Leaflet
-      - Antd
-    - Links:
-      - (web) https://quakeph.ml/
-      - (android) https://play.google.com/store/apps/details?id=com.jamg.quakeph
-  - :heavy_check_mark: PartyNeeds - Inventory, Ordering and Reservation System 
-    - Technology used:
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Redis
-      - Antd
-    - Links:
-      - https://inv-ord-res.herokuapp.com/
-  - :heavy_check_mark: BSMS - Barangay Service Monitoring System with charts, qr code attendance system
-    - Technology used:
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Redis
-      - Antd
-    - Links:
-      - https://bsms-sys.herokuapp.com/
-  - :heavy_check_mark: EHome - E-Home Services with Live Map system 
-    - Technology used:
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Redis
-      - Antd
-      - React Landy
-      - OpenStreetMap (Live map)
-    - Links:
-      - https://ehome-sys.herokuapp.com/
-  - :heavy_check_mark: Wasteify - Wasteify: An E-Garbage Collection Web-Based App
-    - Technology used:
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Redis
-      - Antd
-      - OpenStreetMap (Live map)
-    - Links:
-      - https://wasteify.org/
-  - :heavy_check_mark: ThrowMyFile: Share your files whenever you are.
-    - Technology used:
-      - MongoDB
-      - Express
-      - ReactJS
-      - Nodejs
-      - Redux
-      - Antd
-      - SocketIO
-    - Links:
-      - https://throwmyfile.com/
+    - shell
 
       
       
 ### 📫 Contact: 
-  - :telephone_receiver: +63930-469-9769
+  - :telephone_receiver: +63936-232-1619
   - :email: jammmg26@gmail.com
   - :computer: https://fb.me/jammmg
