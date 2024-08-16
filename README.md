@@ -12,6 +12,8 @@
   - Typescript - (2020 - Current)
   - C# (2018 - 2019)
   - Node (2018 - Current)
+  - OutSystems (2024 - Current)
+<img src="https://raw.githubusercontent.com/jamg26/jamg26/master/odc.png" width="auto" height="auto" />
 
 ### Web Development Tech Stacks
   - Web Development Tech Stacks
